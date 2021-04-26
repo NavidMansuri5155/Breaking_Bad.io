@@ -1,6 +1,6 @@
 # Breaking Bad API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Breaking Bad API](https://www.breakingbadapi.com/api/characters?name).
 
 ## Available Scripts
 
